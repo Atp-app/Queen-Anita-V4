@@ -1,7 +1,7 @@
-  # Queen-Anita-V4
+  # ATP-APP
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By ATP⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
@@ -9,13 +9,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__QUEEN+ANITA-+V4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ATP.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/SEPTORCH29/Queen-Anita-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SEPTORCH29/Queen-Anita-V4?color=blue&style=flat-square"></a>
 <a href="https://github.com/SEPTORCH29/Queen-Anita-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SEPTORCH29/Queen-Anita-V4?color=yellow&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SEPTORCH29/Queen-Anita-V4?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SEPTORCH29/ATP?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://gifthub.com/SEPTORCH29/ATP-D-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
@@ -24,10 +24,10 @@
 
 
 
-## Queen-Anita-V4 Deployment Methods
+## ATP Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/SEPTORCH29/Queen-Anita-V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://anita-v4-pairing-wumi.onrender.com) 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://ATP-D-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SEPTORCH29/Queen-Anita-V4)**
 3. **Deploy on [`RENDER`](https://dashboard.render.com/signup)**
@@ -36,7 +36,7 @@
 3. **Deploy on [`BOT HOSTING PANEL(DISCORD)`](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [`KATBUMP PANEL(DISCORD)`](https://dashboard.katabump.com/auth/login#1ae56c)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
-9. **All Tutorials [`Here`](https://www.youtube.com/@DavidCyril_TECH)**
+9. **All Tutorials [`Here`](https://www.youtube.com/@ATP_TECH)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -51,9 +51,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 
 
-- *Queen-Anita-V4 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *ATP is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen-Anita-V4 at your own risk by keeping this warning in mind.*
+- *Use ATP at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/SEPTORCH29/count.svg)
