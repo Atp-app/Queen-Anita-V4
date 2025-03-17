@@ -6,15 +6,15 @@
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__QUEEN+ANITA-+V4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__TECH+ATP-+V4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ATP+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ATP.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SEPTORCH29/Queen-Anita-V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SEPTORCH29/Queen-Anita-V4?color=yellow&style=flat-square"></a>
-<a href="https://github.com/SEPTORCH29/Queen-Anita-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SEPTORCH29/ATP?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/SEPTORCH29/tech-Atp-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SEPTORCH29/mr-Atp-V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/SEPTORCH29/mr-Atp-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SEPTORCH29/mr-Atp-V4?color=yellow&style=flat-square"></a>
+<a href="https://github.com/SEPTORCH29/mr-Atp-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SEPTORCH29/ATP?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://gifthub.com/SEPTORCH29/ATP-D-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -26,7 +26,7 @@
 
 ## ATP Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/SEPTORCH29/Queen-Anita-V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/SEPTORCH29/Queen-Atp-V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://ATP-D-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SEPTORCH29/Queen-Anita-V4)**
